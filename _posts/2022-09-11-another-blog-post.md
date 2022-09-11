@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Another Post!"
 date:   2022-09-11 16:39:39 -0400
 categories: jekyll update
