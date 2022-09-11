@@ -1,5 +1,5 @@
 #build settings
-theme: mimina 
+#theme: mimina 
 #or
 #remote-theme:name of theme 
 remote_theme: pages-themes/architect@v0.2.0
